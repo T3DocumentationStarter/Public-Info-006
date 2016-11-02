@@ -63,7 +63,7 @@ See the buildinfo_. See the buildinfo_. See the buildinfo_.
 
 .. _buildinfo: https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-006/_buildinfo/
 
-tip::
+.. tip::
 
    The url may even be relative::
 
